@@ -28,6 +28,9 @@ matplotlib <br/>
 6. Vectorization. First build a vocabulary set based on the selected terms, in which each term has an unique index. Then convert each review into a 1-D vector. Each vector element corresponds to its index in the vocabulary set. Note: for those not in the vocabulary, we could use an unknown sign to represent them.
 7. After preprocessing (with stop-word removal lemmatization and stemming), it turns out there are 1304658 words in the whole dataset. The maximum new length is 10290, and the shortest is 2. The average new length is 434.9. We will build a vocabulary set on the 1304658 words and only keep the most frequent ones (need a hyper-parameter here), less frequent ones are represented with a UNKNOWN token.
 
+# Model
+### CBOW Model
+(https://github.com/Laiw1996/fake-real-news/blob/master/CBOW-architecture-predicts-the-current-word-based-on-the-context.png)
 
 # Training
 ### Parameter for training with CNN-LSTM:
