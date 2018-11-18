@@ -6,9 +6,9 @@ jupyter notebook
 
 
 ### Requirements:
-sklearn
-nltk
-keras
+sklearn,
+nltk,
+keras,
 matplotlib
 
 
