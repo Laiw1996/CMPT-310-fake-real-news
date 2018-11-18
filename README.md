@@ -30,10 +30,10 @@ matplotlib <br/>
 
 # Model
 ### CBOW Model
-![](https://github.com/Laiw1996/fake-real-news/blob/master/CBOW-architecture-predicts-the-current-word-based-on-the-context.png =250x)
+![](https://github.com/Laiw1996/fake-real-news/blob/master/CBOW-architecture-predicts-the-current-word-based-on-the-context.png)
 
 ### CNN-LSTM Model
-![](https://github.com/Laiw1996/fake-real-news/blob/master/cnn-lstm-konukoii-1024x538.png =250x)
+![](https://github.com/Laiw1996/fake-real-news/blob/master/cnn-lstm-konukoii-1024x538.png)
 
 # Training
 ### Parameter for training with CNN-LSTM:
