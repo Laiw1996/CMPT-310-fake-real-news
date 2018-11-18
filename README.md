@@ -6,10 +6,10 @@ jupyter notebook
 
 
 ### Requirements:
-sklearn \n
-nltk \n
-keras \n
-matplotlib \n
+sklearn <br/>
+nltk <br/>
+keras <br/>
+matplotlib <br/>
 
 
 ### Dataset
