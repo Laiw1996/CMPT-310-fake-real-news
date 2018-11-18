@@ -32,7 +32,7 @@ matplotlib <br/>
 # Nerual network models
 
 ### 1. Word2Vec CBOW
-Layer (type)                 Output Shape              Param #   
+#### Layer (type)                 Output Shape              Param   
 =================================================================
 input_92 (InputLayer)        (None, 400)               0         
 _________________________________________________________________
@@ -48,7 +48,7 @@ Non-trainable params: 0
 
 
 ### 2. CNN - LSTM
-Layer (type)                 Output Shape              Param #   
+#### Layer (type)                 Output Shape              Param   
 =================================================================
 input_93 (InputLayer)        (None, 400)               0         
 _________________________________________________________________
