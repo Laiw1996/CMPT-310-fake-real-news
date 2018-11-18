@@ -30,7 +30,7 @@ matplotlib <br/>
 
 # Model
 ### CBOW Model
-![alt text](https://github.com/Laiw1996/fake-real-news/blob/master/CBOW-architecture-predicts-the-current-word-based-on-the-context.png =250x250)
+![alt text](https://github.com/Laiw1996/fake-real-news/blob/master/CBOW-architecture-predicts-the-current-word-based-on-the-context.png =250*250)
 
 ### CNN-LSTM Model
 ![alt text](https://github.com/Laiw1996/fake-real-news/blob/master/cnn-lstm-konukoii-1024x538.png)
